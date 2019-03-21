@@ -22,8 +22,17 @@ button:focus{background-color:lightblue;}
     justify-content: center;
 }
 
+#profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 #charContainer {
     font-family: 'Ubuntu', sans-serif;
     color: rgb(245, 245, 139);
+    background-image: url(https://wallpapercave.com/wp/wp2902991.jpg);
+    width: 500px;
 }
 
